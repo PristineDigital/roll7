@@ -1,5 +1,3 @@
-<script>
-
 document.addEventListener('DOMContentLoaded', function() {
     let items = document.querySelectorAll('.tns-item');
 
@@ -22,5 +20,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-
-</script>
